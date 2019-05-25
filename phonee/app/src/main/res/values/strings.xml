@@ -1,0 +1,8 @@
+<resources>
+    <string name="m">请输入手机号</string>
+    <string name="b">发送</string>
+    <string name="app_name">phonee</string>
+    <string name="success">发送成功</string>
+    <string name="dx">请输入信息</string>
+
+</resources>
